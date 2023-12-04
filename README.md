@@ -16,7 +16,7 @@ This Flask-based web application manages café information, allowing users to vi
 
 1. Run the Flask application:
    ```bash
-   python app.py
+   python main.py
 2. Access the app via a web browser: http://localhost:5000/
 
 ## Features
