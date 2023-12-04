@@ -6,7 +6,7 @@ This Flask-based web application manages café information, allowing users to vi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/cafe-database.git
+   git clone https://github.com/Venkatraj-Bachu/cafe-database-web-app.git
 
 2. Navigate to the project folder
    ```bash
